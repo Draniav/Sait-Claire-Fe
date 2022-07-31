@@ -36,7 +36,7 @@ Postman (test the routes)
 
 
 ## Status
->in develop.
+>in develop, incomplete the part visual (front ) is more advanced but is need improve methods and connections. 
 
 >last update 7/31/2022.    
 
